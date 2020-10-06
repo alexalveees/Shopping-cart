@@ -1,0 +1,16 @@
+#main-app,
+.product-page {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.product-iten {
+  display: inline-block;
+  margin-bottom: 100px;
+  width: 33%;
+}
+
+.product-iten img {
+  max-width: 100%;
+  height: auto;
+}

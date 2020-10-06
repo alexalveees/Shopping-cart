@@ -1,0 +1,45 @@
+{
+  "itens": [
+    {
+      "id":1,
+      "name": "iPhone 11 128GB Preto iOS 4G Câmera 12MP",
+      "image":"iphone11.png",
+      "price": 4999.00,
+      "description": "Tudo. Na medida certa. O iPhone 11 tem novo sistema de câmera dupla para capturar mais do que você vê e ama. Ele vem com o chip mais rápido em um smartphone. E bateria para o dia todo: você faz muito e recarrega pouco. Também tem a melhor qualidade de vídeo em um celular. Assim, suas memórias ficam inesquecíveis de verdade."
+    },
+    {
+      "id":2,
+      "name": "Playstation 4",
+      "image":"playstation4.png",
+      "price": 4999.99,
+      "description": "O Console Nacional Playstation4 500GB, da Sony, é uma central de entretenimento versátil que atende o público gamer e famílias que procuram um aparelho que garante diversão por um mundo de alta resolução em imagens, som e jogabilidade imersiva. Com uma diversidade de títulos, tanto em jogos quanto os últimos lançamentos do cinema, o Playstation 4 eleva a experiência de entretenimento dos fãs hardcore de games e de cinema, devido à alta resolução que a tecnologia Blu-ray tornando as imagens mais realistas, envolventes e com qualidade cinco vezes superior a de um DVD padrão.Wi-fi Embutido."
+    },
+    {
+      "id":3,
+      "name": "Ventilador de Mesa Arno Ultra Silence Force 40cm - 3 Velocidades",
+      "image":"ventilador.png",
+      "price": 189.00,
+      "description": "Deixe os ambientes da sua casa muito mais agradáveis e refrescantes com o novo Ventilador de Mesa Arno Ultra Silence Force com a hélice de 40cm e 03 velocidades.Perfeito para qualquer tipo de ambiente, ele é até 4x mais silencioso e ainda mais forte que os demais disponíveis no mercado e conta com novo design muito mais sofisticado e discreto. Com grande vazão de ar, apresenta a Power Zone, uma área concentrada que garante o máximo de vento direcionado, oferecendo performance superior e controle para que você não se preocupe com mais nada e pare de sofrer com o calor."
+    },
+    {
+      "id":4,
+      "name": "Smart TV QLED 82 Polegadas UHD 8K Samsung 82Q800T Processador com IA, Borda Infinita, Alexa Built in, Som em Movimento, Modo Ambiente 3.0",
+      "image":"televisao.png",
+      "price": 49.999,
+      "description": "A Smart TV QLED 82 UHD 8K Samsung 82Q800T possui a melhor performance para seus jogos. Graças ao Modo Game um recurso que minimiza automaticamente a quebra das imagens e otimiza a exposição de luz nas cenas mais escuras. Perfeita para você que joga bastante, a QLED Q800T tem garantia de 10 anos contra Burn-in, dessa maneira os jogos com imagens estáticas como placar e mapas não mancham a tela depois de um tempo."
+    },
+    {
+      "id":5,
+      "name": "Drone Mavic Air 2 Combo DJI",
+      "image":"drone.png",
+      "price": 11.899,
+      "description": "O Mavic Air 2 é um drone da categoria de consumo que voa de modo mais inteligente, por mais tempo e mais longe, capturando detalhes super nítidos pelo caminho. Com Hardware e Software poderosos você poderá filmar em condições de pouca luz, pois ele é equipado com sensor de 1/2 polegada IMX586, capaz de gravar vídeo em HDR."
+    },{
+      "id":6,
+      "name": "Robô Aspirador Ropo Glass 3",
+      "image":"robo.png",
+      "price": 2.899,
+      "description": "completo, agora com mais tecnologia ainda! O ropo Glass 3 faz parte da nova geração de robôs da linha premium da ropo com muito mais tecnologia e poder de limpeza."
+    }
+  ]
+}
